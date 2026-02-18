@@ -28,3 +28,5 @@ else{
 }
 
 divWel.innerHTML = html;
+
+localStorage.setItem("It's a secret to everybody.", "The Brownie Recipe!")
